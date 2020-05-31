@@ -1,6 +1,10 @@
 # inky-and-the-brain
 A collection of helpful bits from Galaxy Brain's Ink work.
 
+
+## Ink -> Github Pages
+Want to get a page like this? https://galaxybrainco.github.io/inky-and-the-brain/
+
 If you look at the scripts in this repo, you can get a working Ink -> github pages build pipeline. The important bits are:
 
 - `.github/workflows/main.yml`
