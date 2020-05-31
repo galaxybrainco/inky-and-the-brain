@@ -8,6 +8,8 @@ If you look at the scripts in this repo, you can get a working Ink -> github pag
 
 Start by cloning this repo, and replace `myStory.ink` with your Ink file. Make sure to update the references in `compile.sh` and `build/index.html`.
 
+You'll also to set an access token for the Github Action to run correctly: https://github.com/marketplace/actions/deploy-to-github-pages
+
 This pipeline makes use of the fact that the Mac `inklecate` executable can stand alone, and that github actions allow for a `macos` setup.
 
 If you have any questions, feel free to file a GitHub issue, or drap an email to hello@galaxybrain.co.
